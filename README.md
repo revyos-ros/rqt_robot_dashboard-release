@@ -1,3 +1,26 @@
+## rqt_robot_dashboard (jazzy) - 0.6.1-6
+
+The packages in the `rqt_robot_dashboard` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rqt_robot_dashboard --override-release-repository-push-url git@github.com:revyos-ros/rqt_robot_dashboard-release` on `Thu, 27 Jun 2024 06:19:52 -0000`
+
+The `rqt_robot_dashboard` package was released.
+
+Version of package(s) in repository `rqt_robot_dashboard`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_robot_dashboard.git
+- release repository: https://github.com/revyos-ros/rqt_robot_dashboard-release.git
+- rosdistro version: `0.6.1-5`
+- old version: `0.6.1-5`
+- new version: `0.6.1-6`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_robot_dashboard (rolling) - 0.6.1-1
 
 The packages in the `rqt_robot_dashboard` repository were released into the `rolling` distro by running `/usr/bin/bloom-release rqt_robot_dashboard -r rolling` on `Tue, 18 May 2021 16:55:14 -0000`
